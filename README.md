@@ -1,4 +1,5 @@
-**Análisis Exploratorio de la Obesidad en Población Latinoamericana**
+# Análisis Exploratorio de la Obesidad en Población Latinoamericana
+
 Este proyecto tiene como objetivo analizar los niveles de obesidad en Colombia, Perú y México utilizando una base de datos simplificada llamada **"A1.1 Obesidad.csv"**. Los datos provienen de un estudio realizado por científicos de la Universidad de la Costa en Colombia y están disponibles en el UCI Machine Learning Repository.
 
 Las principales variables incluidas en la base de datos son:
