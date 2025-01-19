@@ -16,6 +16,6 @@ Las principales variables incluidas en la base de datos son:
 Este análisis exploratorio tiene como fin identificar las posibles relaciones entre estos factores y los niveles de obesidad, con el objetivo de obtener una visión general de los hábitos y características que podrían influir en la prevalencia de la obesidad en esta población.
 
 **Documentos incluidos en este proyecto:**
-- [Reporte en formato ipynb](docs/A1.1_636698.ipynb)
-- [Reporte en formato html](docs/A1.1_636698.html)
-- [Base de datos](docs/A1.1_Obesidad.csv)
+- [Reporte en formato ipynb](./A1.1_636698.ipynb)
+- [Reporte en formato html](./A1.1_636698.html)
+- [Base de datos](./A1.1_Obesidad.csv)
